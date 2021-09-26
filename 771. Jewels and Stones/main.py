@@ -16,7 +16,7 @@ class Solution(object):
         jewel_set = set(jewels)
         # also works ...
         # sum(stone in jewels for stone in stones)
-        
+
         return sum(s in jewel_set for s in stones)
 
     # brute force O(n2) time | O(n) space
