@@ -1,0 +1,7 @@
+Round about way
+Turn integer into string array, reverse the string array, convert back to int
+
+Pop the last digit using last_digit = num%10
+Check if reversed number is still within 32 bit range
+    If not, new number is 0
+Add the popped number the end of another int variable

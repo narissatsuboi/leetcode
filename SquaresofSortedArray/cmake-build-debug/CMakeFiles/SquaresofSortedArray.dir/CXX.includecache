@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/12066/GitHub/leetcode/SquaresofSortedArray/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+iterator
+-
+cmath
+-
+

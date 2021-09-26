@@ -1,0 +1,15 @@
+1 Hash Map 1 Array
+    Find out which array is shorter.
+    Use hash map or Counter to get the frequency of each element
+    in the smaller array.
+    Iterate through each element in larger array.
+    Check that element is in hash map.
+    Store matching element in output array.
+    Decrement frequency in hash map.
+
+2 Hash Map Comparison
+    Hash maps of both lists
+    Use built in python intersection comparison of dictionaries
+    counter1&counter2.elements()
+
+    TC = O(N), SC = O(N + M), create two dictionaries
